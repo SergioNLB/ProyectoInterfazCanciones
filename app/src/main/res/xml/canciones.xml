@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musica>
+    <!-- Albun de coldplay-->
+    <album>
+        <titulo>A Rush of Blood to the Head</titulo>
+        <artista>Coldplay</artista>
+        <genero>Rock Alternativo</genero>
+        <fecha_publicacion>24 de agosto de 2002</fecha_publicacion>
+        <duracion>65 minutos</duracion>
+        <discografia>parlophone</discografia>
+        <imagen>imgcoldplay</imagen>
+
+    <!--Canciones-->
+        <canciones>
+            <cancion>
+                <titulo>politik</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>5:19</duracion>
+            </cancion>
+            <cancion>
+                <titulo>In my place</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>3:48</duracion>
+            </cancion>
+            <cancion>
+                <titulo>God Put a Smile upon Your Face</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>4:57</duracion>
+            </cancion>
+            <cancion>
+                <titulo>The Scientist</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>5:09</duracion>
+            </cancion>
+            <cancion>
+                <titulo>clocks</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>5:07</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Daylight</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>5:27</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Green Eyes</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>3:43</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Warning Sign</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>5:31</duracion>
+            </cancion>
+            <cancion>
+                <titulo>A Whisper</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>3:58</duracion>
+            </cancion>
+            <cancion>
+                <titulo>A Rush of Blood to the Head</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>5:51</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Amsterdam</titulo>
+                <escritores>Chris Martin, Guy Berryman, Jonny Buckland, Will Champion</escritores>
+                <productores>Coldplay, Ken Nelson</productores>
+                <duracion>5:19</duracion>
+            </cancion>
+        </canciones>
+    </album>
+    <!--Albun de Red Hot Chili Peppers-->
+    <album>
+        <titulo>One Hot Minute</titulo>
+        <artista>Red Hot Chili Peppers</artista>
+        <genero>Rock alternativo, funk rock</genero>
+        <fecha_publicacion>12 de Octubre de 1995</fecha_publicacion>
+        <duracion>62 minutos</duracion>
+        <discografia>Warner Bros. Records</discografia>
+        <imagen>imgredhot</imagen>
+    <!--13 Canciones de Red Hot-->
+        <canciones>
+            <cancion>
+                <titulo>Warped</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>5:04</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Aeroplane</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>4:45</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Deep Kick</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>6:33</duracion>
+            </cancion>
+            <cancion>
+                <titulo>My Friends</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>4:02</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Coffee Shop</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>3:08</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Pea</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>1:47</duracion>
+            </cancion>
+            <cancion>
+                <titulo>One Big Mob</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>6:02</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Walkabout</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>5:07</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Tearjerker</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>4:19</duracion>
+            </cancion>
+            <cancion>
+                <titulo>One Hot Minute</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>6:23</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Falling into Grace</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>3:48</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Shallow Be Thy Game</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>4:33</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Transcending</titulo>
+                <escritores>Red Hot Chili Peppers</escritores>
+                <productores>Rick Rubin</productores>
+                <duracion>5:46</duracion>
+            </cancion>
+        </canciones>
+    </album>
+    <!--Albun de Green Day-->
+    <album>
+        <titulo>¡Uno!</titulo>
+        <artista>Green Day</artista>
+        <genero>Punk rock, Pop punk</genero>
+        <fecha_publicacion>2012-09-21</fecha_publicacion>
+        <duracion>41:45</duracion>
+        <discografia>Reprise Records</discografia>
+        <imagen>imggreenday</imagen>
+    <!--Canciones de Green Day-->
+        <canciones>
+            <cancion>
+                <titulo>Nuclear Family</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>3:03</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Stay the Night</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>4:37</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Carpe Diem</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>3:25</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Let Yourself Go</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>2:57</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Kill the DJ</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>3:41</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Fell for You</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>3:08</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Loss of Control</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>3:07</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Troublemaker</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>2:45</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Angel Blue</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>2:46</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Sweet 16</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>3:03</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Rusty James</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>4:09</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Oh Love</titulo>
+                <escritores>Billie Joe Armstrong, Tré Cool, Mike Dirnt</escritores>
+                <productores>Rob Cavallo, Green Day</productores>
+                <duracion>5:03</duracion>
+            </cancion>
+        </canciones>
+    </album>
+    <!--Albun de Mana-->
+    <album>
+        <titulo>Almas del Silencio</titulo>
+        <artista>Maná</artista>
+        <genero>Rock en español, Pop rock</genero>
+        <fecha_publicacion>2008-04-22</fecha_publicacion>
+        <duracion>52:22</duracion>
+        <discografia>Warner Music Latina</discografia>
+        <imagen>imgmana</imagen>
+    <!--Canciones de Mana-->
+        <canciones>
+            <cancion>
+                <titulo>Manda Una Señal</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:32</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Labios Compartidos</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:47</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Arráncame el Corazón</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:31</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Tengo Muchas Alas</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:29</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Vuela Libre Paloma</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>5:10</duracion>
+            </cancion>
+            <cancion>
+                <titulo>De Pies a Cabeza</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:58</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Cristal Lluvía</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:43</duracion>
+            </cancion>
+            <cancion>
+                <titulo>El Viaje</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:24</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Tú Me Salvaste</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:25</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Como Diablos</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:20</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Amor Clandestino</titulo>
+                <escritores>Fher Olvera</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:17</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Si No Te Hubieras Ido</titulo>
+                <escritores>Marco Antonio Solís</escritores>
+                <productores>Fher Olvera, Alex González</productores>
+                <duracion>4:29</duracion>
+            </cancion>
+        </canciones>
+    </album>
+    <!--Album de Tiziano Ferro-->
+    <album>
+        <titulo>Amo</titulo>
+        <artista>Tiziano Ferro</artista>
+        <genero>Pop</genero>
+        <fecha_publicacion>2019-11-22</fecha_publicacion>
+        <duracion_total>46:36</duracion_total>
+        <discografia>Universal Music Group</discografia>
+        <imagen>imgtizianoferro</imagen>
+    <!--Canciones de Tiziano Ferro-->
+        <canciones>
+            <cancion>
+                <titulo>La Fine</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>4:10</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Il Mestiere Della Vita</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:57</duracion>
+            </cancion>
+            <cancion>
+                <titulo>La Tua Vita Intera</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:47</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Accetto Miracoli</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:48</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Stadio</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:26</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Ricorderai L'Amore</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:56</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Pugni Di Liberta</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:52</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Il Mio Complice</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:43</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Testimone</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:50</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Ho Bisogno Del Tuo Sorriso</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>4:16</duracion>
+            </cancion>
+            <cancion>
+                <titulo>20 Anni</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>4:16</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Salvami</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:32</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Già Ti Guarda Alice</titulo>
+                <escritores>Tiziano Ferro</escritores>
+                <productores>Timbaland, Federico Vindver</productores>
+                <duracion>3:42</duracion>
+            </cancion>
+        </canciones>  
+    </album>
+</musica>
